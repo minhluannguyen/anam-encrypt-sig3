@@ -16,4 +16,6 @@ The following Python libraries are required to run the script:
 - `pycryptodome` (for AES encryption)
 - `matplotlib` (for plotting execution times)
 
+## References
 
+- [Anamorphic Encryption, Revisited](https://eprint.iacr.org/2023/249.pdf)
